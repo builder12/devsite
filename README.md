@@ -1,27 +1,9 @@
-
-<!DOCTYPE html>
-<!--[if IE 7]>
-<html class="ie ie7" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
-<![endif]-->
-<!--[if IE 8]>
-<html class="ie ie8" lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
-<![endif]-->
-<!--[if !(IE 7) | !(IE 8) ]><!-->
-<html lang="en-US" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
-<!--<![endif]-->
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="http://5starlimobusrentals.com/xmlrpc.php">
 			<link rel="shortcut icon" href="http://5starlimobusrentals.com/wp-content/uploads/2018/03/5starlogo.png" />
-		
-	<!--[if lt IE 9]>
-	<script src="http://5starlimobusrentals.com/wp-content/themes/scalia/js/html5.js"></script>
-	<![endif]-->
-	<title>Wedding Limo Party Bus Service Chicago Trolley Cheap Limo Rental</title>
-
-<!-- Google Tag Manager for WordPress by gtm4wp.com -->
 <script data-cfasync="false" type="text/javascript">//<![CDATA[
 	var gtm4wp_datalayer_name = "dataLayer";
 	var dataLayer = dataLayer || [];
