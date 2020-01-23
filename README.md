@@ -1,3 +1,4 @@
+##some hdae##
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -162,81 +163,6 @@ _atrk_opts = { atrk_acct:"e1c6q1rcy520uW", domain:"5starlimobusrentals.com",dyna
 
 
 
-<!-- This site is optimized with the Schema plugin v1.7.2 - https://schema.press -->
-<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","@id":"#organization","name":"5 star Limo Bus Rentals Party Bus Rentals &amp; Trolley","url":"http:\/\/5starlimobusrentals.com\/","logo":"wp-content\/uploads\/2018\/05\/5-star-limo225-big-logo.png","contactPoint":{"@type":"ContactPoint","telephone":"+1-708-272-7188","url":"5starlimobusrentals.com\/contact","contactType":"customer support"},"sameAs":["https:\/\/plus.google.com\/113616506143623122445","https:\/\/www.facebook.com\/5tarlimobusrentals\/","Https:\/\/Twitter.com\/5starlimo4u","Https:\/\/instagram.com\/5starlimorentals","Https:\/\/pintrest.com\/Chicagolandbus"]}</script>
-
-
-<!-- Google Tag Manager for WordPress by gtm4wp.com -->
-<script data-cfasync="false" type="text/javascript">//<![CDATA[
-	dataLayer.push({"siteID":0,"siteName":"","pagePostType":"frontpage","pagePostType2":"single-page","pagePostAuthor":"Danny Fernandes","browserName":"Chrome","browserVersion":"70.0.3538.102","browserEngineName":"Blink","browserEngineVersion":"","osName":"OS X","osVersion":"10.14.0","deviceType":"desktop","deviceManufacturer":"Apple","deviceModel":"Macintosh","postCountOnPage":1,"postCountTotal":1,"postID":320,"postFormat":"standard","gtm.whitelist":["awct","html","img","ga","tc","tdc","ua","d","jsm","c","k","e","j","v","r","f","u","v"],"gtm.blacklist":[]});//]]>
-</script>
-<script data-cfasync="false">//<![CDATA[
-(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-W4HZ94R');//]]>
-</script>
-<!-- End Google Tag Manager -->
-<!-- End Google Tag Manager for WordPress by gtm4wp.com --><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
-<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://5starlimobusrentals.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]-->
-
-<!-- This site is optimized with the Schema plugin v1.7.2 - https://schema.press -->
-<script type="application/ld+json">{
-    "@context": "http://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-        {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-                "@id": "http://5starlimobusrentals.com",
-                "name": "Home"
-            }
-        }
-    ]
-}</script>
-
-<link rel="icon" href="http://5starlimobusrentals.com/wp-content/uploads/2017/09/cropped-5tar-face-book-limo-large-logo-150x150.png" sizes="32x32" />
-<link rel="icon" href="http://5starlimobusrentals.com/wp-content/uploads/2017/09/cropped-5tar-face-book-limo-large-logo-256x256.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="http://5starlimobusrentals.com/wp-content/uploads/2017/09/cropped-5tar-face-book-limo-large-logo-256x256.png" />
-<meta name="msapplication-TileImage" content="http://5starlimobusrentals.com/wp-content/uploads/2017/09/cropped-5tar-face-book-limo-large-logo-300x300.png" />
-<style type="text/css" data-type="vc_custom-css">.post-slider-index .wpb_flexslider .flex-control-nav {
-    bottom: 60px !important;
-}
-
-.img-slider-resp img {
-    margin-top: 35px !important;
-}
-
-@media (max-width: 767px) {
-.wpb_gallery_slides .fullwidth-block {
-    height: 1000px;
-}
-.custom-textbox .wpb_text_column {
-    padding-left: 10 !important;
-    padding-right: 0 !important;
-}
-.resp-middle {
-        text-align: center;
-
-}
-.post-slider-index .flex-control-nav {
-        display: none;
-}
-
-    
-.img-slider-resp {
-    display: none;
-}
-    
-}
-@media (max-width: 340px) {
-.wpb_gallery_slides .fullwidth-block {
-    height: 1200px;
-}
-}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1476099350103{padding-top: 100px !important;padding-bottom: 100px !important;background-color: #f7f7f7 !important;}.vc_custom_1476099562719{padding-top: 50px !important;padding-bottom: 50px !important;background-color: #3c3a8c !important;}.vc_custom_1476099386168{padding-bottom: 10px !important;}.vc_custom_1476099645110{padding-bottom: 10px !important;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
-</head>
 
 
 <body class="home page-template-default page page-id-320 page-parent cookies-set cookies-accepted wpb-js-composer js-comp-ver-5.5.5 vc_responsive">
